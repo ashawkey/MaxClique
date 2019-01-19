@@ -2,6 +2,8 @@
 
 This is an implementation of the [EWLS, EWCC](https://www.sciencedirect.com/science/article/pii/S0004370211000427), [NuMVC](https://arxiv.org/abs/1402.0584) algorithm to solve the max clique problem as a class final project.
 
+Some codes are borrowed from [here](https://github.com/wuwuz/EWLS).
+
 Input example:
 
 the first line is `N M` for N vertices and M edges; followed by M lines as an undirected edge `a b`.
